@@ -1,0 +1,111 @@
+[
+    {
+      "name": "Zach Hawtof",
+      "image": "https://drive.google.com/file/d/1G4nkXOR_f-RGKdXw0HJctVmVVcSU6VS2/view?usp=drive_link",
+      "intro": "Community Leader. Occasional CEO. Tightknit (https://community.tightknit.ai)",
+      "timezone": "America/New_York",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+      "name": "Derek Koch",
+      "image": "https://drive.google.com/file/d/1ON-0Ka1UHxedxRX4wI6rvTg-Qlk-Ytx1/view?usp=drive_link",
+      "intro": "The Seeker (https://theseeker.storychamp.community/)",
+      "timezone": "America/Chicago",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+      "name": "DamionW",
+      "image": "https://drive.google.com/file/d/1EGZ9-pwlPSg3VctQ9zeDCYw0oA3xYGR7/view?usp=drive_link",
+      "intro": "Principal Security Engineer",
+      "timezone": "America/New_York",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+      "name": "Eric Doty (Superpath)",
+      "image": "https://drive.google.com/file/d/1VaRq5MEihND-Yms8-gw_Kci7Xb58K-48/view?usp=drive_link",
+      "intro": "Content Lead @ Dock / Superpath Mod",
+      "timezone": "America/Los_Angeles",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": ["https://twitter.com/DotyContent"]
+    },
+    {
+      "name": "Sadri Follador",
+      "image": "https://drive.google.com/file/d/1Xaiz6s9w4sKiy07Z-vUNuwhCmzmzaDIi/view?usp=drive_link",
+      "intro": null,
+      "timezone": "Europe/Brussels",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": ["https://bsky.app/profile/sadrifollador.bsky.social"]
+    },
+    {
+      "name": "Jeff Ignacio",
+      "image": "https://drive.google.com/file/d/1sY4FWAmHdeOj8WmG7mvO13-7JRIfQ-t2/view?usp=drive_link",
+      "intro": "Head of RevOps at Keystone AI",
+      "timezone": "America/Los_Angeles",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+      "name": "Kevin Burnett",
+      "image": "https://drive.google.com/file/d/1IQ_5p9emMC8LQ__LbjojcKUdD11OrVQy/view?usp=drive_link",
+      "intro": "software developer, spiffworkflow, lover of devops, zambia, neovim, python, ruby, bash, business, lowercase letters",
+      "timezone": "Africa/Monrovia",
+      "company_industry": null,
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+      "name": "Gaurav Nemade",
+      "image": "https://drive.google.com/file/d/1IgK6_gHu4lM55WovCqz1rEGuVw0136Kd/view?usp=drive_link",
+      "intro": "Co-founder @ Inventive.ai (RFP + AI) | YC, Founding team @ Google AI, IIT",
+      "timezone": "Asia/Kolkata",
+      "company_industry": "AI",
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+      "name": "Manoj Ranaweera",
+      "image": "https://drive.google.com/file/d/1i86Q1Yhi6TpA7rQJXCxE0d_89LJRMLwD/view?usp=drive_link",
+      "intro": "Techcelerate + Deal Lite + SkilledUp Life (https://skilledup.life, https://deallite.uk)",
+      "timezone": "Europe/London",
+      "company_industry": "Tech",
+      "company_size": null,
+      "social_profile": []
+    },
+    {
+        "name": "Ihor Der",
+        "image": "https://drive.google.com/file/d/1I5KCB4Vu-ZuPwO5qLzLoypcnDjTAkZRj/view?usp=drive_link",
+        "intro": "Founder of M1-project.com (https://www.m1-project.com/?utm_source=revgenius)",
+        "timezone": "Asia/Jerusalem",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+      },
+      {
+        "name": "Chris Hill",
+        "image": "https://drive.google.com/file/d/19T7DfiIu9SnYGW5acMzwl0BbgYVhyr-h/view?usp=drive_link",
+        "intro": "3x CEO, 4x Senior Director of Rev Ops - Murrieta, CA. 17 Years of Sales Ops/RevOps Consulting Experience. Looking for: Connections. Tools: Salesforce, Salesloft, Hubspot, Dialpad, Zoom, AI, Data Scraping, Data Enrichment, and much more!",
+        "timezone": "America/Los_Angeles",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": []
+      },
+      {
+        "name": "Raja Vijaya",
+        "image": "https://drive.google.com/file/d/1D_354XYuDGxrkTiCnZbLvvzIVJUn-Qac/view?usp=drive_link",
+        "intro": null,
+        "timezone": "Europe/London",
+        "company_industry": null,
+        "company_size": null,
+        "social_profile": ["https://twitter.com/rajavijayach"]
+      }
+]
+
